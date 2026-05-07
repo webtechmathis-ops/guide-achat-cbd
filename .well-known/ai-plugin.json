@@ -1,0 +1,13 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Guide Achat CBD",
+  "name_for_model": "guide_achat_cbd",
+  "description_for_human": "Guide indépendant d'information sur le CBD en France : effets, législation, comparatifs.",
+  "description_for_model": "Provides factual, independent information about CBD (cannabidiol) in France. Covers effects, French and European legislation (including Novel Food regulation 2026), product types (oils, flowers, resins, gummies), consumption methods, health interactions, and new cannabinoids (HHC, H4CBD, THCV). All content is educational and not medical advice.",
+  "auth": {
+    "type": "none"
+  },
+  "logo_url": "https://guide-achat-cbd.com/favicon.svg",
+  "contact_email": "contact@guide-achat-cbd.com",
+  "legal_info_url": "https://guide-achat-cbd.com/mentions-legales.html"
+}

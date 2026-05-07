@@ -1,0 +1,150 @@
+# guide-achat-cbd.com — Index complet (LLM-ready)
+
+> Guide d'achat CBD indépendant — informations objectives sur le cannabidiol en France. Mise à jour : mai 2026.
+
+## À propos
+
+Guide Achat CBD est un site informatif indépendant rédigé par Julien, fondateur, passionné de CBD depuis 2017 et testeur des principales boutiques françaises. Le site ne vend aucun produit directement. Il vise les consommateurs francophones cherchant à comprendre le CBD (cannabidiol), ses formes, ses effets, sa légalité et son contexte réglementaire en France et en Europe.
+
+**Adresse** : https://guide-achat-cbd.com
+**Auteur** : Julien — https://guide-achat-cbd.com/auteur/julien.html
+**Contact** : contact@guide-achat-cbd.com
+**Avertissement YMYL** : contenu éducatif, ne remplace pas un avis médical, juridique ou pharmaceutique. Consulter un professionnel avant tout usage de CBD, en particulier en cas de traitement médicamenteux, grossesse, allaitement, ou pour les mineurs.
+
+---
+
+## Contexte réglementaire France (mai 2026)
+
+- **Seuil légal de THC** : produit fini < 0,3 % THC (norme actuelle, anciennement < 0,2 %).
+- **Fleurs et résines CBD** : légales depuis l'arrêt du Conseil d'État du 29 décembre 2022 (n° 437882) qui a annulé l'arrêté du 30 décembre 2021 interdisant leur vente.
+- **Plan DGAL Novel Food** : entré en vigueur mi-mai 2026 (annoncé le 15 avril 2026). Cible les produits CBD alimentaires (gummies, huiles "complément alimentaire", gélules, chocolats, boissons, infusions de sommités fleuries) sans autorisation Novel Food au titre du règlement (UE) 2015/2283.
+- **Produits NON visés par DGAL** : fleurs CBD, résines, e-liquides, cosmétiques, produits de vaporisation.
+- **Arrêté N°10 (janvier 2024)** : 7 néo-cannabinoïdes interdits comme stupéfiants — THCV, H4CBD, THCP, HHC-O, HHC-P, delta-8-THC et un autre dérivé.
+- **HHC** : non listé dans l'arrêté N°10 mais assimilé à un stupéfiant par jurisprudence française récente (2025).
+- **Seuil EFSA** : apport sûr provisoire ~2 mg de CBD/jour (avis février 2026), bien en-dessous des dosages habituellement vendus.
+
+---
+
+## Articles — Hub 1 : Comprendre le CBD
+
+### /blog/quest-ce-que-le-cbd.html — Qu'est-ce que le CBD ? Guide complet (2026)
+Le CBD (cannabidiol) est un cannabinoïde naturel du chanvre (*Cannabis sativa* L.), isolé en 1940 par Roger Adams. Sa structure exacte a été établie en 1963 par Mechoulam et Shvo. Le CBD est non psychoactif (aucun effet planant) et agit via le système endocannabinoïde (récepteurs CB1, CB2, TRPV1, 5-HT1A, GPR55) avec plus de 56 cibles moléculaires identifiées (Ibeas Bih et al., 2015). Ses effets les mieux documentés concernent l'anxiété, le sommeil, les douleurs et l'épilepsie réfractaire (Epidiolex approuvé FDA 2018). Délais d'action selon mode : inhalation 5–10 min, sublingual 15–30 min, oral 45–90 min. Légal en France si produit fini < 0,3 % THC (arrêt CE 29 déc. 2022). 12 sources scientifiques citées.
+
+### /blog/sativa-vs-indica.html — Sativa vs Indica CBD : quelles différences ?
+Sativa et Indica sont deux sous-espèces botaniques de *Cannabis sativa* L. La distinction populaire "Sativa = énergisant / Indica = sédatif" est simplifiée et peu validée scientifiquement. Ce qui compte est le profil de cannabinoïdes (CBD, CBG, CBN) et de terpènes. Le chanvre industriel européen utilisé pour le CBD est majoritairement hybride à dominante indica.
+
+### /blog/420-histoire.html — 420 : l'histoire vraie du symbole cannabis
+Le terme "420" naît en 1971 à San Rafael (Californie) avec cinq lycéens (les Waldos) qui se retrouvaient à 16h20 pour fumer du cannabis. Aucune origine policière (pas de code pénal californien), aucun lien avec Hitler ou le nombre de molécules du cannabis — ce sont des mythes. Diffusion mondiale par le groupe Grateful Dead et la presse cannabis des années 90. Le 20 avril (4/20 US) est devenu une journée mondiale pro-cannabis.
+
+---
+
+## Articles — Hub 2 : Fleurs & Résines
+
+### /blog/effets-fleurs-cbd.html — Effets des fleurs de CBD
+Effets les plus rapides parmi tous les modes (5–10 min) grâce à l'absorption pulmonaire. Effets rapportés : relaxation, réduction de l'anxiété, amélioration du sommeil, légère analgésie. Biodisponibilité par inhalation 30–35 % (la plus élevée). Vaporisation préférable à la combustion. Légales depuis l'arrêt CE de décembre 2022, non visées par le plan DGAL 2026.
+
+### /blog/resine-cbd.html — Résine de CBD : guide complet
+Concentré obtenu à partir des trichomes du chanvre. Trois méthodes : pressage à froid (hash), extraction CO₂ supercritique, extraction à l'eau glacée (ice water hash). Taux de CBD : 15 à 60 %. Profil de terpènes souvent plus concentré que les fleurs (effet d'entourage potentiellement supérieur). Légale en France si THC < 0,3 %.
+
+### /blog/moon-rocks-cbd.html — Moon Rocks CBD
+Fleurs de chanvre enduites de résine CBD puis roulées dans du kief (trichomes purs). Concentration finale 30 à 60 % de CBD avec profil de terpènes exceptionnel. À consommer avec précaution (puissance élevée). Vaporisation recommandée, jamais combustion directe. Légal si THC < 0,3 %.
+
+---
+
+## Articles — Hub 3 : Huiles & Compléments
+
+### /blog/huile-cbd-definition.html — Huile de CBD : définition, bienfaits et dosage
+Extraction du CBD diluée dans une huile porteuse (MCT, chanvre, olive). Mode recommandé : sublingual (60–90 s sous la langue), biodisponibilité 20–30 %. Depuis mai 2026, les huiles présentées comme "compléments alimentaires" sont sous contrôle DGAL Novel Food. Huiles "bien-être" non étiquetées comme aliments dans un flou réglementaire. Vérifier impérativement le Certificate of Analysis (COA) d'un laboratoire indépendant.
+
+### /blog/tisane-cbd.html — Tisane de CBD : bienfaits, préparation et effets
+Tisanes à base de feuilles et tiges de chanvre : légales, non visées par DGAL 2026. Tisanes à base de sommités fleuries : sous contrôle DGAL depuis mai 2026. Le CBD est peu soluble dans l'eau pure (biodisponibilité ~5–10 % sans matière grasse). Astuce clé : ajouter lait entier, huile de coco ou lait végétal pour augmenter l'absorption.
+
+### /blog/gummies-cbd.html — Gummies CBD : guide d'achat et comparatif 2026
+Confiseries enrichies en CBD avec biodisponibilité la plus faible de toutes les formes (6–15 %). Visés directement par le plan DGAL Novel Food depuis mai 2026 — vente comme complément alimentaire sous contrôle renforcé. Seuil EFSA d'apport sûr provisoire ~2 mg/jour, en-dessous des dosages habituels (10–25 mg/gummy). Restent largement disponibles en 2026 mais statut juridique pouvant évoluer rapidement.
+
+---
+
+## Articles — Hub 4 : Modes de consommation
+
+### /blog/puff-cbd.html — Puff CBD : avis, effets et comparatif 2026
+Vaporisateur jetable pré-rempli de e-liquide CBD. Effets rapides (5–10 min), durée limitée par la batterie. Légales en France si THC < 0,3 %, non visées par DGAL 2026. Vigilance sur les puffs importées (THC, néo-cannabinoïdes non déclarés).
+
+### /blog/cigarettes-cbd.html — Cigarettes au CBD
+Pré-roulées à base de fleurs de chanvre, légales si THC < 0,3 %. Combustion réelle = goudrons, monoxyde de carbone, HAP. Souvent utilisées en aide au sevrage tabagique mais preuves cliniques limitées. Vaporisation = alternative significativement moins nocive.
+
+### /blog/vaporisateur-cbd.html — Vaporisateur CBD : comparatif et guide d'achat
+Méthode d'inhalation la moins nocive (pas de combustion, pas de goudrons). Température optimale 170–210 °C selon profil de terpènes recherché. Deux familles : portables (nomades) et de bureau (puissance, précision). Améliore la biodisponibilité du CBD vs combustion.
+
+### /blog/cbd-animaux.html — CBD pour animaux : guide vétérinaire 2026
+Chiens et chats possèdent le système endocannabinoïde (récepteurs CB1 et CB2). Études préliminaires chez le chien : effets positifs sur anxiété, douleur ostéo-articulaire, épilepsie. Avis vétérinaire obligatoire avant usage. Le THC est toxique pour le chien à faible dose — n'utiliser que des produits CBD certifiés sans THC.
+
+---
+
+## Articles — Hub 5 : CBD & Santé (YMYL)
+
+### /blog/cbd-stress.html — CBD et stress : est-ce vraiment efficace ?
+Action via le récepteur 5-HT1A (sérotoninergique) et modulation du système endocannabinoïde. Niveau de preuve E4 — plusieurs essais cliniques contrôlés sur l'anxiété sociale et généralisée. Étude de référence : Bergamaschi et al. 2011 (n=57) — réduction significative de l'anxiété à 300 mg en prise unique. Effets long terme et doses optimales pour usage chronique : insuffisamment documentés. Ne remplace pas une prise en charge psychologique.
+
+### /blog/cbd-sommeil.html — CBD et sommeil : ce que dit la science
+Étude ACES (2022, n=2 704) : 61 % d'amélioration subjective du sommeil. Mécanismes : (1) réduction de l'anxiété (cause majeure d'insomnie), (2) action sur les récepteurs du cycle éveil/sommeil. Dose suggérée 25–50 mg, 30–60 min avant le coucher. Améliore davantage l'endormissement que la qualité du sommeil profond.
+
+### /blog/cbd-performance-sexuelle.html — CBD et sexualité
+Effet principal documenté : réduction de l'anxiété de performance (mécanisme indirect). Action directe sur la libido peu étudiée et résultats contradictoires. Récepteurs CB1/CB2 présents dans les tissus sexuels — rôle physiologique encore mal compris. Produits topiques (lubrifiants, baumes) en essor commercial sans preuves cliniques solides.
+
+### /blog/cbd-interactions-medicaments.html — CBD et médicaments : interactions
+Le CBD inhibe les enzymes hépatiques CYP3A4 et CYP2C19, qui métabolisent ~60 % des médicaments courants. Classes les plus à risque : anticoagulants (warfarine), antiépileptiques (clobazam), immunosuppresseurs, statines, certains antidépresseurs. L'interaction peut augmenter ou diminuer la concentration plasmatique du médicament. **Consultation médicale impérative avant association CBD et traitement chronique.**
+
+### /blog/sevrage-cannabis.html — Sevrage cannabis : étapes et conseils pratiques
+Syndrome de sevrage cannabique réel et reconnu (DSM-5), touche ~9 % des consommateurs réguliers. Durée typique 2–4 semaines, pic d'intensité entre J3 et J7. Symptômes principaux : anxiété, irritabilité, insomnie, craving, perte d'appétit, sueurs nocturnes. Le CBD pourrait atténuer anxiété et insomnie (preuves préliminaires E3). Accompagnement professionnel (TCC, addictologue) = stratégie la plus efficace.
+
+---
+
+## Articles — Hub 6 : THC & Cannabinoïdes
+
+### /blog/delta-9-thc.html — Delta-9 THC : effets, légalité et différences CBD
+Principal cannabinoïde psychoactif du cannabis. Illégal en France au-delà de 0,3 % du poids sec dans les produits finis. Agit directement sur les récepteurs CB1 du cerveau (mécanisme fondamentalement différent du CBD). Risque de dépendance estimé à 9 % des consommateurs au cours de leur vie.
+
+### /blog/delta-10-thc.html — Delta-10 THC
+Isomère du delta-9-THC (même formule, double liaison en position 10). Découvert accidentellement en 2020 dans du distillat contaminé par retardant incendie en Californie. Effets psychoactifs moins puissants que delta-9, profil plus "cérébral". Illégal en France (régime stupéfiant comme delta-9).
+
+### /blog/puff-thc.html — Puff THC : risques, légalité et alternatives
+Totalement illégales en France : production, possession, vente et consommation. Peuvent contenir THC naturel ou synthétique (delta-8, delta-10, THCP) à concentrations très variables et non contrôlées. Ciblent souvent les jeunes via packaging attractif imitant les puffs nicotinées. Risques : surdosage imprévisible, intoxications aiguës, néo-cannabinoïdes non testés.
+
+### /blog/gummies-thc.html — Gummies THC en 2026
+Totalement illégaux en France quel que soit le taux déclaré. Délai d'action 45–90 min particulièrement dangereux : re-dosage avant ressenti des effets → intoxications sévères. Packaging confiserie dangereux pour les enfants. Plan DGAL 2026 renforce les contrôles sur produits CBD alimentaires — gummies THC restent dans le domaine pénal.
+
+### /blog/hct-cbd.html — HHC, H4CBD et dérivés
+Cannabinoïdes semi-synthétiques obtenus par hydrogénation du THC ou du CBD. H4CBD explicitement interdit en France depuis l'arrêté N°10 (2024). HHC dans une zone grise : précédents judiciaires de 2025 tendant vers son assimilation aux stupéfiants. Données de sécurité quasi-inexistantes pour les deux molécules.
+
+### /blog/interdiction-thcv-h4cbd.html — Interdiction THCV et H4CBD en France (2026)
+L'arrêté N°10 (janvier 2024) a inscrit 7 néo-cannabinoïdes sur la liste des stupéfiants : THCV, H4CBD, THCP, HHC-O, HHC-P, delta-8-THC et un autre dérivé. Le CBD reste légal — non concerné par cet arrêté. HHC non listé mais progressivement assimilé par jurisprudence. Produits retirés du marché à compter de l'entrée en vigueur.
+
+---
+
+## Articles — Hub 7 : Législation CBD
+
+### /blog/legalisation-cbd-france.html — CBD légal en France ? État des lieux 2026
+Le CBD est légal si produit fini < 0,3 % THC et chanvre issu d'une variété UE autorisée. Arrêt du Conseil d'État du 29 décembre 2022 (n° 437882) a définitivement confirmé la légalité de la vente de fleurs et feuilles CBD. Zone de tension 2026 : produits alimentaires CBD (Novel Food) sous pression DGAL. Néo-cannabinoïdes (H4CBD, THCV, THCP) interdits depuis arrêté N°10 (janvier 2024).
+
+### /blog/novel-food-dgal-mai-2026.html — Novel Food DGAL mai 2026
+Plan national de contrôles annoncé le 15 avril 2026, effectif mi-mai 2026. Base juridique : règlement (UE) 2015/2283 Novel Food (cannabinoïdes sans autorisation à ce jour). Produits visés : gummies, huiles "complément alimentaire", gélules, chocolats, boissons, infusions de sommités fleuries. Produits NON visés : fleurs CBD, résines, e-liquides, cosmétiques, vaporisation. La filière CBD française conteste et prépare des recours juridiques.
+
+---
+
+## Pages structurelles
+
+- /auteur/julien.html — Page auteur (bio, ligne éditoriale, contact)
+- /mentions-legales.html — Mentions légales (noindex)
+- /politique-confidentialite.html — Politique de confidentialité (noindex)
+- /sitemap.xml — Plan du site
+- /robots.txt — Directives crawlers (autorise tous les bots IA : GPTBot, Google-Extended, Claude-Web, PerplexityBot, Bytespider, CCBot)
+
+## Sources institutionnelles fréquemment citées
+
+- Organisation Mondiale de la Santé (OMS) — Cannabidiol Critical Review Report 2018
+- FDA — Approbation de l'Epidiolex (cannabidiol purifié), 2018
+- EFSA — Avis seuil d'apport sûr de CBD (~2 mg/jour, février 2026)
+- Conseil d'État (France) — Arrêt n° 437882 du 29 décembre 2022
+- DGAL — Plan Novel Food CBD entré en vigueur mai 2026
+- Règlement (UE) 2015/2283 — Novel Food
+- Études citées : Bergamaschi et al. 2011 ; Ibeas Bih et al. 2015 ; ACES 2022 ; Atalay et al. 2020

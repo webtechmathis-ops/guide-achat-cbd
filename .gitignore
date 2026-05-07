@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+._*
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Outils locaux (non destinés à la prod)
+.claude/
+
+# Variables d'environnement (par sécurité — rien à pousser)
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Builds éventuels
+dist/
+build/
+node_modules/
+
+# OS Windows
+Thumbs.db
+Desktop.ini
