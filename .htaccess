@@ -2,8 +2,16 @@
 RewriteEngine On
 RewriteBase /
 
+# Redirige toute URL .html vers la version sans extension (301 canonical)
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
+RewriteRule ^ /%1 [R=301,L]
+
+# Sert /foo en cherchant /foo.html (URLs propres)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.+)$ /$1.html [L]
 </IfModule>
+
+# Page 404 personnalisée
+ErrorDocument 404 /404.html
