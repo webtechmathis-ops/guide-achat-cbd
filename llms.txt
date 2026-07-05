@@ -1,24 +1,31 @@
 # guide-achat-cbd.com
 
-> Guide d'achat CBD indépendant — informations objectives sur le cannabidiol, ses effets, ses modes de consommation et la législation en France.
+> Guide d'achat CBD indépendant — informations objectives sur le cannabidiol, ses effets, ses modes de consommation et la législation en France. 32 guides à jour (2026), rédigés par Julien, testeur indépendant depuis 2017.
 
 ## À propos
-Guide Achat CBD est un blog informatif indépendant qui aide les consommateurs français à comprendre le CBD (cannabidiol), ses différentes formes, ses effets et la réglementation en vigueur. Nous ne vendons aucun produit directement.
+Guide Achat CBD est un média informatif indépendant qui aide les consommateurs français à comprendre le CBD (cannabidiol), ses différentes formes, ses effets et la réglementation en vigueur. Nous ne vendons aucun produit directement. Chaque affirmation santé s'appuie sur des sources institutionnelles (OMS, EFSA, FDA, Conseil d'État) ou des études à comité de lecture, avec avertissements YMYL systématiques.
 
 ## Thématiques principales
-- [Comprendre le CBD](/hub/comprendre-le-cbd.html): Bases du cannabidiol, variétés, culture
-- [Fleurs & Résines](/hub/fleurs-et-resines.html): Effets, variétés, Moon Rocks
-- [Huiles & Compléments](/hub/huiles-et-complements.html): Huiles, tisanes, gummies
-- [Modes de consommation](/hub/modes-de-consommation.html): Vaporisation, puffs, cigarettes
-- [CBD & Santé](/hub/cbd-et-sante.html): Stress, sommeil, interactions médicamenteuses
-- [THC & Cannabinoïdes](/hub/thc-et-cannabinoides.html): Delta-9, Delta-10, HHC, H4CBD
-- [Législation](/hub/legislation-cbd.html): Légalité France, Novel Food, DGAL 2026
+- [Comprendre le CBD](/hub/comprendre-le-cbd): Bases du cannabidiol, système endocannabinoïde, spectres, certificats d'analyse
+- [Fleurs & Résines](/hub/fleurs-et-resines): Effets, variétés, Moon Rocks
+- [Huiles & Compléments](/hub/huiles-et-complements): Huiles, tisanes, gummies
+- [Modes de consommation](/hub/modes-de-consommation): Vaporisation, puffs, cigarettes
+- [CBD & Santé](/hub/cbd-et-sante): Stress, sommeil, douleurs, sport, interactions médicamenteuses
+- [THC & Cannabinoïdes](/hub/thc-et-cannabinoides): Delta-9, Delta-10, HHC, H4CBD
+- [Législation](/hub/legislation-cbd): Légalité France, Novel Food, DGAL 2026, conduite
 
 ## Articles clés
-- [Qu'est-ce que le CBD ?](/blog/quest-ce-que-le-cbd.html)
-- [Novel Food et DGAL mai 2026](/blog/novel-food-dgal-mai-2026.html)
-- [CBD et médicaments : interactions](/blog/cbd-interactions-medicaments.html)
-- [Légalisation du CBD en France](/blog/legalisation-cbd-france.html)
+- [Qu'est-ce que le CBD ?](/blog/quest-ce-que-le-cbd)
+- [Spectre complet, large spectre ou isolat](/blog/spectre-complet-large-isolat)
+- [Lire un certificat d'analyse (COA) du CBD](/blog/certificat-analyse-cbd)
+- [Novel Food et DGAL mai 2026](/blog/novel-food-dgal-mai-2026)
+- [CBD et médicaments : interactions](/blog/cbd-interactions-medicaments)
+- [CBD et douleurs chroniques](/blog/cbd-douleurs-chroniques)
+- [CBD et conduite : dépistage et loi](/blog/cbd-et-conduite)
+- [Légalisation du CBD en France](/blog/legalisation-cbd-france)
+
+## Auteur
+- [Julien — auteur et fondateur](/auteur/julien): testeur indépendant du marché français du CBD depuis 2017, ligne éditoriale 100 % indépendante (aucune marque sponsorisée).
 
 ## Avertissement YMYL
-Ce site fournit des informations à titre éducatif. Il ne constitue pas un avis médical, juridique ou financier. Consultez un professionnel de santé avant toute utilisation de CBD.
+Ce site fournit des informations à titre éducatif. Il ne constitue pas un avis médical, juridique ou financier. Le CBD n'est pas un médicament. Consultez un professionnel de santé avant toute utilisation de CBD, notamment en cas de traitement médicamenteux, de grossesse, d'allaitement ou pour les mineurs.
